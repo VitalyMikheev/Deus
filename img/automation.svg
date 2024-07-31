@@ -1,0 +1,58 @@
+<svg width="382.734375" height="382.734375" viewBox="0 0 382.734 382.734" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_4_2431_dd" x="0.000000" y="0.000000" width="382.734375" height="382.734375" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0"/>
+			<feGaussianBlur stdDeviation="10.2891"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.62353 0 0 0 0 0.7098 0 0 0 0 0.79216 0 0 0 0.2 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_4_2432_dd" x="34.046875" y="34.046875" width="314.642578" height="314.642578" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0"/>
+			<feGaussianBlur stdDeviation="10.2891"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.62353 0 0 0 0 0.7098 0 0 0 0 0.79216 0 0 0 0.3 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_4_2433_dd" x="85.000000" y="85.000000" width="212.734375" height="212.734375" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0"/>
+			<feGaussianBlur stdDeviation="10.2891"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.62353 0 0 0 0 0.7098 0 0 0 0 0.79216 0 0 0 0.3 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<radialGradient gradientTransform="translate(191.369 191.369) rotate(-90) scale(126.455 134.406)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_angular_4_2434_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#39C7EC"/>
+			<stop offset="0.755208" stop-color="#0050EC"/>
+		</radialGradient>
+		<linearGradient x1="144.010406" y1="159.320312" x2="235.624985" y2="226.320343" id="paint_linear_4_2435_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#39C7EC"/>
+			<stop offset="0.000100" stop-color="#39C7EC"/>
+			<stop offset="1.000000" stop-color="#0050EC"/>
+		</linearGradient>
+	</defs>
+	<rect id="Frame 113" width="321.000000" height="321.000000" transform="translate(30.867188 30.867188)" fill="#EFF1F7" fill-opacity="1.000000"/>
+	<g filter="url(#filter_4_2431_dd)">
+		<circle id="Ellipse 175" cx="191.367188" cy="191.367188" r="160.500000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+	<g filter="url(#filter_4_2432_dd)">
+		<circle id="Ellipse 177" cx="191.369141" cy="191.369141" r="126.454536" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+	<g filter="url(#filter_4_2433_dd)">
+		<circle id="Ellipse 178" cx="191.367188" cy="191.367188" r="75.500000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+	<path id="Ellipse 176" d="M245.82 139.24C243.24 136.56 240.48 134.08 237.55 131.81C234.46 129.41 231.24 127.29 227.92 125.44C219.63 120.83 210.73 117.93 201.69 116.69C198.26 116.22 194.81 115.99 191.37 115.98L191.36 115.98L191.36 115.61L191.36 64.91C209.55 64.91 226.85 68.76 242.48 75.69C251.94 79.88 260.79 85.2 268.86 91.47C291.93 109.33 307.1 133.65 313.82 159.93C321.1 188.18 318.19 216.7 307.39 241.58C303.23 251.23 297.99 260.1 291.89 268.11C281.06 282.32 267.49 293.82 252.29 302.18L252.28 302.18L227.68 257.42L227.68 257.42C230.97 255.61 234.08 253.59 236.99 251.38C244.12 245.97 250.07 239.45 254.72 232.2C256.96 228.72 258.9 225.07 260.53 221.29C262.14 217.58 263.43 213.8 264.41 210C266.55 201.63 267.19 193.11 266.46 184.8C266.09 180.68 265.39 176.6 264.36 172.62C263.39 168.83 262.15 165.18 260.66 161.68C257.04 153.2 251.96 145.65 245.82 139.24Z" fill="url(#paint_angular_4_2434_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="42%" d="M214.3 191.47C209.31 191.47 206.61 187.94 206.61 183.73L206.61 181.89C206.61 177.65 209.42 174.11 214.3 174.11C219.34 174.11 222.02 177.65 222.02 181.89L222.02 183.73C222.02 187.96 219.27 191.47 214.3 191.47ZM200.05 210.32L175.1 210.32L175.1 204.98L187.57 193.45C190.74 190.39 192.45 188.48 192.45 185.7C192.45 182.62 190.16 180.7 187.08 180.7C183.89 180.7 181.78 182.76 181.79 186.11L174.76 186.11C174.75 179.24 179.79 174.84 187.13 174.84C194.64 174.84 199.59 179.13 199.59 185.2C199.59 189.18 197.66 192.46 190.47 199.03L185.36 204.03L185.36 204.27L200.05 204.27L200.05 210.32ZM158.75 204.16L141.96 204.16L141.96 198.33L156.57 175.32L165.83 175.32L165.83 198.24L170.17 198.24L170.17 204.16L165.83 204.16L165.83 210.32L158.75 210.32L158.75 204.16ZM213.34 210.32L208.89 210.32L232.95 175.32L237.4 175.32L213.34 210.32ZM214.3 178.48C212.27 178.48 211.61 180.26 211.61 181.89L211.61 183.73C211.61 185.4 212.28 187.09 214.3 187.09C216.38 187.09 217.02 185.4 217.02 183.73L217.02 181.89C217.02 180.21 216.45 178.48 214.3 178.48ZM149.42 198.24L158.9 198.24L158.9 183.39L158.63 183.39L149.42 197.96L149.42 198.24ZM232.28 211.53C227.27 211.53 224.57 207.95 224.57 203.75L224.57 201.91C224.57 197.71 227.34 194.14 232.28 194.14C237.3 194.14 239.98 197.68 239.98 201.91L239.98 203.75C239.98 207.95 237.23 211.53 232.28 211.53ZM232.28 198.51C230.22 198.51 229.54 200.24 229.54 201.91L229.54 203.75C229.54 205.38 230.2 207.12 232.28 207.12C234.36 207.12 234.98 205.43 234.98 203.75L234.98 201.91C234.98 200.24 234.43 198.51 232.28 198.51Z" fill="url(#paint_linear_4_2435_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
